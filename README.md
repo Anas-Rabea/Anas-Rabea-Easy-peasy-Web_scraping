@@ -1,2 +1,2 @@
 # Easy-peasy-Web_scraping
-scraping video links with titles, summary and  release dates
+scraping video links with titles, summary and  release dates from a specific educational webiste
